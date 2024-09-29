@@ -1,1 +1,1 @@
-export const path = import.meta.env.VITE_PATH
+export const path = "https://edunovabackend-production.up.railway.app"
